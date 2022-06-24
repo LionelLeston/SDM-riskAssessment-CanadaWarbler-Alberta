@@ -1,0 +1,1 @@
+Raw and processed data are stored in this folder, either as inputs or outputs from modeling. Due to file sizes, the actual data cannot be stored here; instead lists describing the contents of each folder along with links to each data source. The precise folder structure where contents go is maintained in this folder.
